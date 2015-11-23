@@ -61,6 +61,10 @@ objects from the image and modify the objects the generator draws.
 
 ![](images/lsun_bedrooms_window_drop_test.png)
 
+# Google image search from generations
+
+![](images/googsearch_dcgan.png)
+
 
 # Arithmetic on faces
 
