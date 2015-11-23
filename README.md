@@ -48,7 +48,7 @@ learned has smooth transitions, with every image in the space plausibly looking 
 the 6th row, you see a room without a window slowly transforming into a room with a giant window.
 In the 10th row, you see what appears to be a TV slowly being transformed into a window.
 
-![](images/interp_comparison.png)
+![](images/lsun_bedrooms_five_epochs_interps.png)
 
 # Forgetting to draw windows
 
