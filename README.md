@@ -37,6 +37,7 @@ convolutions (generator).
 # Bedrooms after 5 epochs
 Generated bedrooms after five epochs of training. There appears to be evidence of visual
 under-fitting via repeated textures across multiple samples.
+
 ![](images/lsun_bedrooms_five_epoch_samples.png)
 
 # Bedrooms after 1 epoch
